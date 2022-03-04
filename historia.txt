@@ -7,3 +7,5 @@ tengo 35 años
 ingeniero de sistemas
 
 quiero ser un gran desarrollador y crecer con mi empresa
+
+hoy es el curso git de platzi
